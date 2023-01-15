@@ -1,0 +1,10 @@
+*.o
+compile_commands.json
+dma-fence-test
+*.mod.*
+*.cmd
+*.order
+.cache/
+*.ko
+*.mod
+Module.symvers
